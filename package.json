@@ -1,0 +1,19 @@
+{
+  "name": "starkex-contracts",
+  "version": "4.5.0",
+  "description": "StarkEx contracts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhinofi/starkex-contracts.git"
+  },
+  "author": "Starkware",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhinofi/starkex-contracts/issues"
+  },
+  "homepage": "https://github.com/rhinofi/starkex-contracts#readme"
+}
